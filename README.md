@@ -1,3 +1,6 @@
+<p align="center">
+  <img src=".github/Thumbnail.png" alt= Demonstração do projeto width=100% />
+</p>
 
 ## 💻 Projeto  
 Esse é um projeto Web de uma blog para exibir uma galeria de imagens.
