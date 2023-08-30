@@ -1,7 +1,8 @@
-💻 Projeto
+
+## 💻 Projeto  
 Esse é um projeto Web de uma blog para exibir uma galeria de imagens.
 
-🚀 Tecnologias
+## 🚀 Tecnologias
 Esse projeto foi desenvolvido durante o curso da Rocketseat com as seguintes tecnologias:
 
 HTML
